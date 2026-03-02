@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1033397193331",
+    "project_id": "superdriver-narj",
+    "storage_bucket": "superdriver-narj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033397193331:android:2bd71c754bb909c364b806",
+        "android_client_info": {
+          "package_name": "com.narj.superdriver.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4z03VI9MJ0S-_PcHJeVSTpyxB6oEnPUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033397193331:android:d41b2052b38ce52164b806",
+        "android_client_info": {
+          "package_name": "com.narj.superdriverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4z03VI9MJ0S-_PcHJeVSTpyxB6oEnPUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033397193331:android:987571ffe447421864b806",
+        "android_client_info": {
+          "package_name": "com.techtitansdigital.bridge.bridge_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4z03VI9MJ0S-_PcHJeVSTpyxB6oEnPUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
